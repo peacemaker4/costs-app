@@ -1,0 +1,40 @@
+.green-text{
+    color:greenyellow
+}
+
+.underline-light-text{
+    text-decoration: underline;
+    color:white
+}
+
+.Техника{
+    color:rgb(57, 57, 180)
+}
+
+.Другое{
+    color:aquamarine
+}
+
+.Еда{
+    color:yellow
+}
+
+.Здоровье{
+    color: rgb(255, 71, 71)
+}
+
+.Продукты{
+    color: green
+}
+
+.Одежда{
+    color: orangered
+}
+
+.Досуг{
+    color: violet
+}
+
+.Дом{
+    color: brown
+}
